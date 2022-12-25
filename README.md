@@ -17,5 +17,4 @@ cmake -G Xcode ..
 3. Open L0x.xcodeproj with Xcode.
 4. Change the target by clicking on “ALL_BUILD” and selecting L00.
 5. Edit the scheme by going to “Product” -> “Scheme” -> “Edit Scheme” to add command-line arguments (``../../resources``).
-(Except A4, command-line arguments example: ``../../resources/scenes/Plane.json ../../out/Plane.png``)
 6. Press Command+R to run.
